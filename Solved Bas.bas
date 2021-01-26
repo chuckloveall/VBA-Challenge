@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module1"
+Attribute VB_Name = "Module11"
 Sub stock_ticker():
 
 'define variables
