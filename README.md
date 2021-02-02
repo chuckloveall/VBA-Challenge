@@ -1,5 +1,6 @@
 # VBA-Challenge
-##Starting and Finished Excel Files are too large to upload to Github.
+
+<h2>Starting and Finished Excel Files are too large to upload to Github.
 
 Created a VBA script to loop through the stock data for a year returning the stock ticker, yearly total volume traded, yearly change in opening versus closing price, and percent change in price.
 Applied conditional formatting with red being negative and green being positive.
